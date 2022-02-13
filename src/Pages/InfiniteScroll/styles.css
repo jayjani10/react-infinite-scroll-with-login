@@ -1,0 +1,11 @@
+.table-wrap {
+    height: 600px;
+    overflow-y: auto;
+  }
+  
+  th {
+    position: sticky;
+    top: 0;
+    background-color: tan;
+  }
+  
